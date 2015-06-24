@@ -1,1 +1,3 @@
-# companyofwords.github.io 
+# IDST_weblogs
+
+[Describe the project.]
